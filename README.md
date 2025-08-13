@@ -14,9 +14,7 @@ This is a simple, yet fully functional, front-end based todo application built u
 *   **Dynamic Task Counter**: Displays the number of active tasks remaining.
 *   **Empty Initial State**: The task list starts empty on page load or refresh, providing a clean slate for new users.
 
-This entire repository and application were **built and refined with the assistance of Manus AI**.
-
-**Demo URL**: [https://omkafcwy.manus.space](https://omkafcwy.manus.space)
+**Manus AI Demo URL**: [https://omkafcwy.manus.space](https://omkafcwy.manus.space)
 
 ### Script to Set Up Development Environment
 
